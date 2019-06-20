@@ -7,22 +7,6 @@ tags: blockchain
 comments: true
 ---
 
-## 1. Intro
-
-[inflearn](https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp/)
-
-유료 인터넷 강의를 돈주고 듣는건 고등학교때 이후로 처음이다. 
-
-필요한 부분은 5강 이후라서 고민했다.
-
-하지만 복숩 및 강화할겸 처음부터 차근 차근 보며 정리 해보기로 했다. 
-
-그동안 공부하면서 기록에 너무 소홀했던것 같아 반성하며 이번 인강 듣기 + 자료정리를 추석동안 끝내보려고 한다. 
-
-
-
-
-
 ### 강좌 교육과정
 
 | 1. 첫 발걸음                        |                                                              |          |
