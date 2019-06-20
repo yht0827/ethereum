@@ -333,7 +333,7 @@ function send public {
 - 값 : 1~32 byte (사이즈를 지정해서 사용)
 - byte ==bytes1
 - EX)
-- bytes32 x = "hello world!"; (문자열 저장가능 사실 hex로 젖ㅇ)
+- bytes32 x = "hello world!"; (문자열 저장가능 사실 hex로 )
 
 
 
