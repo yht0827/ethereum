@@ -428,7 +428,7 @@ contact MyContract {
         uint8[3] d = [1,2,3];
         //리터럴 통해 초기화 하는데 저장위치 memory 안써줘서 에러 
         
-        myArray.push(5);
+        myArray.push(5); //storage만 
         uint myArrayLength = myArray.length;
     }
 }
